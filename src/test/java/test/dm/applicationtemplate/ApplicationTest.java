@@ -24,7 +24,7 @@ public class ApplicationTest extends BaseSpringBootTest {
     private EvaluationService evaluationService;
 
     @Test
-    public void jsonPlaceholderClientTest() throws IOException {
+    public void applicationTest() throws IOException {
 
         List<Partner> partners = hubspotRequestService.retrievePartners();
 
