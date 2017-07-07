@@ -1,4 +1,5 @@
 
 clients:
-  json-placeholder:
-    base-url: "https://jsonplaceholder.typicode.com/"
+  hubspot:
+    base-url: "https://candidate.hubteam.com/"
+    api-key: "28073c2ff1383c521db148390502"
